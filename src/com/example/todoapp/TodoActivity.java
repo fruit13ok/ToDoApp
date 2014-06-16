@@ -16,7 +16,8 @@ import android.widget.AdapterView.OnItemLongClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ListView;
-/*
+/*same as last version, clear it up later
+ * 
  * 1).
  * in activity_todo.xml
  * create ListView, EditText, and Button
